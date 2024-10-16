@@ -3,3 +3,4 @@ reository pour le projet fédérateur CCV3-3 2024
 liste de présent 1 ére séance:
 - Soufiene CHRAIGUI
 - Rabii Homrani
+- Boufateh Ala
